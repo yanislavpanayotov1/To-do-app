@@ -4,7 +4,7 @@ A simple and interactive **To-Do list** application that allows users to manage 
 
 ## Demo
 
-Check out the live version of the app: [To-Do App Demo]([link_to_your_live_version](https://to-do-app-yani.netlify.app))
+Check out the live version of the app: [To-Do App Demo](https://to-do-app-yani.netlify.app)
 
 ## Features
 
